@@ -26,9 +26,9 @@ puts dinner("Steak")
 
 # call your methods here
 
-breakfast
-lunch
-dinner
+breakfast("French Toast")
+lunch("Sandwich")
+dinner("Steak")
 
 # Call your methods without any arguments here
 puts snacks
