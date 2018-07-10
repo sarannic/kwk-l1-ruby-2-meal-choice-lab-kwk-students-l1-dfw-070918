@@ -12,13 +12,15 @@ def lunch(yummy = "grilled cheese")
   puts "Afternoon is the best time for #{yummy}."
 end 
 
-
-
-
-
+def dinner(yea = "salmon")
+  puts "Night is the bests time for #{yea}."
+end
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
+puts breakfast("French Toast")
+puts lunch("Sandwich")
+puts dinner("Steak")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
