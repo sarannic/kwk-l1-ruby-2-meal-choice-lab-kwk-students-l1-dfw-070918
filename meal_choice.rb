@@ -13,7 +13,7 @@ def lunch(yummy = "grilled cheese")
 end 
 
 def dinner(yea = "salmon")
-  puts "The night is the bests time for #{yea}."
+  puts "The night is the best time for #{yea}."
 end
 
 # Call the methods with puts and your own arguments here. Like this:
