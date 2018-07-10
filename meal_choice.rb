@@ -28,8 +28,10 @@ lunch("Sandwich")
 dinner("Steak")
 
 # Call your methods without any arguments here
+
 puts snacks
 puts breakfast
 puts lunch
 puts dinner
+
 ## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!"
